@@ -6,7 +6,7 @@ __pycache__/
 .Python
 env/
 venv/
-venv-rubeus/
+/venv-rubeus/
 ENV/
 
 # Playwright
