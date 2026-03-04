@@ -30,7 +30,11 @@ playwright/.cache/
 .DS_Store
 Thumbs.db
 
-# Coverage (caso adicione depois)
+# Evidencias de teste
+screenshots/
+videos/
+
+# Coverage
 htmlcov/
 .coverage
 .coverage.*
