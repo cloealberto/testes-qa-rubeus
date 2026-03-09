@@ -21,7 +21,6 @@ A avaliação considera aspectos funcionais, visuais e de experiência do usuár
 - Verificação de hierarquia visual e consistência
 - Navegação e funcionamento de CTAs
 - Validação de formulários
-- Responsividade básica (mobile, tablet, desktop)
 - Testes automatizados de smoke
 
 ---
